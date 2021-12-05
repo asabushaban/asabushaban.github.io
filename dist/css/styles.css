@@ -11907,3 +11907,10 @@ html {
 #shadow {
     box-shadow: 6px 6px 6px 1px rgba(0, 0, 0, 0.2);
 }
+
+.btnproject{
+  background-color: #1abc9c;
+  border-radius: 7px;
+  width: 4rem;
+  height: 2.2rem;
+}
