@@ -723,7 +723,6 @@ progress {
     display: flex;
     flex-wrap: wrap;
     margin-top: calc(-1 * var(--bs-gutter-y));
-    margin-top: 3rem;
     margin-right: calc(-0.5 * var(--bs-gutter-x));
     margin-left: calc(-0.5 * var(--bs-gutter-x));
 }
@@ -11824,7 +11823,7 @@ html {
 
 .masthead {
     padding-top: calc(6rem + 74px);
-    /* padding-bottom: 6rem; */
+    padding-bottom: 6rem;
 }
 
 #Resume {
@@ -11844,7 +11843,7 @@ html {
 @media (min-width: 992px) {
     .masthead {
         padding-top: calc(6rem + 104px);
-        /* padding-bottom: 6rem; */
+        padding-bottom: 6rem;
     }
     .masthead .masthead-heading {
         font-size: 4rem;
